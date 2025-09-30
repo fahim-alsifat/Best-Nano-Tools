@@ -1,0 +1,5 @@
+{
+  "name": "AI Image Style Transfer",
+  "description": "An application that uses AI to transfer the style from a reference image to a main image, with optional text commands for further refinement.",
+  "requestFramePermissions": []
+}
